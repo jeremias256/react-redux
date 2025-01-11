@@ -1,2 +1,2 @@
-# react-redux
-react - redux - hooks - connect - thunk - RTK
+# Curso Profesional de React.js y Redux
+# https://platzi.com/cursos/react-redux-profesional/
